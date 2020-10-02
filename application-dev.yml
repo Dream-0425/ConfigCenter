@@ -1,5 +1,2 @@
-spring
-
-​	server:
-
-​		8000
+config:
+  info: "fdfdff"
